@@ -34,7 +34,7 @@
 - Oct 2021: The First International Conference for Chinese Young Probability Scholars, Hunan
 
 ## Student Seminars
-I was involved in the following student seminars when I was a PhD student at Peking University. Thanks to these seminars, I've learned a lot about modern probability. 
+I was involved in the following student seminars (mainly organized by [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/)) when I was a PhD student at Peking University. Thanks to these seminars, I've learned a lot about modern probability. 
 - [3+X Seminar (journal club)](http://faculty.bicmr.pku.edu.cn/~xinyili/fall20213px.html) (Autumn 2021).
 - [Student Seminar on Gaussian free field, Liouville quantum gravity and Gaussian multiplicative chaos](http://faculty.bicmr.pku.edu.cn/~xinyili/LQG.html) (Spring 2021).
 - [Undergraduate and Graduate Journal club](http://faculty.bicmr.pku.edu.cn/~xinyili/spring2021.html) (Spring 2021).
