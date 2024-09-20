@@ -1,6 +1,6 @@
 # Yifan Gao's Home Page
 
-- <img src="Files/selfie.jpg" alt="selfie" style="float:right;zoom:7%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/). My research interest is probability theory, with a focuse on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, and percolation.
+- <img src="Files/selfie.jpg" alt="selfie" style="float:right;zoom:7%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/). My research interest is probability theory, with a focuse on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, and percolation.
 - Email: yifangao at cityu dot edu dot hk
 
 ## Curriculum Vita
@@ -19,3 +19,17 @@ Brownian motion (with X. Li, R. Liu and W. Qian). *In preparation*.
 Math. Phys.*, **405**(182), 2024. [arXiv](https://arxiv.org/abs/2205.15901)
 - On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian
 free field (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv](https://arxiv.org/abs/2011.04955)
+
+
+# Talks
+
+- Dec 2023: Random Interacting Systems, Scaling Limits, and Universality, National University of Singapore
+- Jun 2023: Discrete Probability and Related Problems, Sichuan University
+- Apr 2023: Topics on Loop Soups, HKUST
+- Feb 2023: Hong Kong Probability Seminar, HKUST
+- Apr 2022: Online Talk at THU-PKU-BNU Joint Probability Webinar
+- Jan 2022: Probability Seminar, Universität zu Köln
+- Oct 2021: The First International Conference for Chinese Young Probability Scholars, Hunan
+- Sep 2021: Probability Seminar, Central South University
+- May 2021: Probability Seminar, Beijing Jiaotong University
+- Dec 2020: Masters Lectures, Tsinghua University	
