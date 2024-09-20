@@ -43,6 +43,6 @@ I was involved in the following student seminars when I was a PhD student at Pek
 
 
 ## Links
-- My cv 
-- There is a joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/)
+- My [CV](Files/Gao-CV4.pdf)
+- A joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/)
 
