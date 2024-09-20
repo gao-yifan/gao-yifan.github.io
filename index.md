@@ -1,15 +1,15 @@
 # GAO Yifan &nbsp; 高一帆
 
 - <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:10%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/).
-- My research interest is probability theory, with a focuse on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, and percolation.
+- My research interest is probability theory, with a focus on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, and percolation.
 - Email: yifangao at cityu dot edu dot hk
 - My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
 
 ## Curriculum Vita
 
-- 2022 -  &emsp; &emsp; &nbsp; &nbsp;  Postdoc at City University of Hong Kong
-- 2017 - 2022	 &nbsp; &nbsp; PhD at Peking University under the supervision of [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm) and [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/)
-- 2013 - 2017  &nbsp; &nbsp; B.S. at Sun Yat-sen University
+- 2022 -  &emsp;&emsp;&ensp;&ensp; Postdoc at City University of Hong Kong
+- 2017 - 2022 &nbsp;&nbsp; PhD at Peking University under the supervision of [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm) and [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/)
+- 2013 - 2017 &nbsp;&nbsp; B.S. at Sun Yat-sen University
 
 ## Papers
 
@@ -33,7 +33,7 @@
 - Jan 2022: Probability Seminar, Universität zu Köln
 - Oct 2021: The First International Conference for Chinese Young Probability Scholars, Hunan
 
-## Student Seminars
+## Seminars
 I was involved in the following student seminars (mainly organized by [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/)) when I was a PhD student at Peking University. Thanks to these seminars, I've learned a lot about modern probability. 
 - [3+X Seminar (journal club)](http://faculty.bicmr.pku.edu.cn/~xinyili/fall20213px.html) (Autumn 2021).
 - [Student Seminar on Gaussian free field, Liouville quantum gravity and Gaussian multiplicative chaos](http://faculty.bicmr.pku.edu.cn/~xinyili/LQG.html) (Spring 2021).
