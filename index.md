@@ -3,6 +3,7 @@
 - <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:10%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/).
 - My research interest is probability theory, with a focuse on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, and percolation.
 - Email: yifangao at cityu dot edu dot hk
+- My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
 
 ## Curriculum Vita
 
@@ -12,25 +13,36 @@
 
 ## Papers
 
-- On the non-existence of several random fractals of zero dimension derived from
-Brownian motion (with X. Li, R. Liu and W. Qian). *In preparation*.
+- On the non-existence of several random fractals of zero dimension derived from Brownian motion (with X. Li, R. Liu and W. Qian). *In preparation*.
 - Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). [arXiv](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
 - Multiple points on the boundaries of Brownian loop-soup clusters (with X. Li and W. Qian). [arXiv](https://arxiv.org/abs/2205.11468), 55 pages, 12 figures.
-- Sharp asymptotics for arm probabilities in critical planar percolation (with H. Du, X. Li and Z. Zhuang). *Comm.
-Math. Phys.*, **405**(182), 2024. [arXiv](https://arxiv.org/abs/2205.15901)
-- On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian
-free field (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv](https://arxiv.org/abs/2011.04955)
+- Sharp asymptotics for arm probabilities in critical planar percolation (with H. Du, X. Li and Z. Zhuang). *Comm. Math. Phys.*, **405**(182), 2024. [arXiv](https://arxiv.org/abs/2205.15901)
+- On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian free field (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv](https://arxiv.org/abs/2011.04955)
+
+## Coauthors
+
+[Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://statistics.wharton.upenn.edu/profile/zijie123/#teaching).
 
 
-# Talks
+## Talks
 
 - Dec 2023: Random Interacting Systems, Scaling Limits, and Universality, National University of Singapore
 - Jun 2023: Discrete Probability and Related Problems, Sichuan University
-- Apr 2023: Topics on Loop Soups, HKUST
 - Feb 2023: Hong Kong Probability Seminar, HKUST
 - Apr 2022: Online Talk at THU-PKU-BNU Joint Probability Webinar
 - Jan 2022: Probability Seminar, Universität zu Köln
 - Oct 2021: The First International Conference for Chinese Young Probability Scholars, Hunan
-- Sep 2021: Probability Seminar, Central South University
-- May 2021: Probability Seminar, Beijing Jiaotong University
-- Dec 2020: Masters Lectures, Tsinghua University	
+
+## Student Seminars
+I was involved in the following student seminars when I was a PhD student at Peking University. Thanks to these seminars, I've learned a lot about modern probability. 
+- [3+X Seminar (journal club)](http://faculty.bicmr.pku.edu.cn/~xinyili/fall20213px.html) (Autumn 2021).
+- [Student Seminar on Gaussian free field, Liouville quantum gravity and Gaussian multiplicative chaos](http://faculty.bicmr.pku.edu.cn/~xinyili/LQG.html) (Spring 2021).
+- [Undergraduate and Graduate Journal club](http://faculty.bicmr.pku.edu.cn/~xinyili/spring2021.html) (Spring 2021).
+- [3+X Seminar on random trees, random planar maps and their scaling limits](http://faculty.bicmr.pku.edu.cn/~xinyili/planarmap2020.html) (Autumn 2020).
+- [Student Seminar on Schramm-Loewner Evolution](http://faculty.bicmr.pku.edu.cn/~xinyili/SLE2020.html) (Autumn 2020).
+
+
+## Links
+- My cv 
+- There is a joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/)
+
