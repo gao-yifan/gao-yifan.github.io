@@ -36,7 +36,7 @@
 
 
 ## Links
-- My [CV](Files/Gao-CV4.pdf)
+- My [CV](Files/CV.pdf)
 - Past [student seminars](Files/seminars.html)
 - A joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/)
 
