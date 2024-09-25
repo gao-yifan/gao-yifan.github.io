@@ -25,7 +25,7 @@
 [Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://statistics.wharton.upenn.edu/profile/zijie123/#teaching).
 
 
-## Talks
+## Some Talks
 
 - Dec 2023: Random Interacting Systems, Scaling Limits, and Universality, National University of Singapore
 - Jun 2023: Discrete Probability and Related Problems, Sichuan University
@@ -37,5 +37,6 @@
 
 ## Links
 - My [CV](Files/Gao-CV4.pdf)
+- Past [student seminars](Files/seminar.md)
 - A joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/)
 
