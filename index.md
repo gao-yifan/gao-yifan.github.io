@@ -13,6 +13,7 @@
 
 ## Publications and Preprints
 
+1. A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X Liu). [arXiv](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
 1. Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
 1. Percolation of discrete GFF in dimension two I. Arm events in the random walk loop soup (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16230), 50 pages, 5 figures.
 1. Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). [arXiv](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
