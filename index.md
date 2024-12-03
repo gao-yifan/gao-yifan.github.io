@@ -21,13 +21,20 @@
 1. Sharp asymptotics for arm probabilities in critical planar percolation (with H. Du, X. Li and Z. Zhuang). *Comm. Math. Phys.*, **405**(182), 2024. [arXiv](https://arxiv.org/abs/2205.15901)
 1. On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian free field (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv](https://arxiv.org/abs/2011.04955)
 
+## In preparation
+
+1. Arm exponents in CLE and the Brownian loop soup (with P. Nolin and W. Qian).
+1. On the non-existence of several random fractals of zero dimension derived from Brownian motion (with X. Li, R. Liu and W. Qian). 
+1. Convergence of the frontier of planar random walk in natural parametrization (with X. Li, R. Liu, X. Liu and D. Shiraishi).
+
 ## Coauthors
 
-[Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), Yifan Li, Runsheng Liu, Xiangyi Liu, [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://statistics.wharton.upenn.edu/profile/zijie123/#teaching).
+[Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), Yifan Li, Runsheng Liu, Xiangyi Liu, [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://zijie123123.github.io/).
 
 
 ## Some Talks
 
+- Dec 2024: Youth Probability Forum, Beijing Normal University at Zhuhai
 - Dec 2023: Random Interacting Systems, Scaling Limits, and Universality, National University of Singapore
 - Jun 2023: Discrete Probability and Related Problems, Sichuan University
 - Feb 2023: Hong Kong Probability Seminar, HKUST
