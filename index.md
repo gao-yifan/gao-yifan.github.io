@@ -34,12 +34,13 @@
 
 ## Some Talks
 
+- Dec 2024: Geometry of Random Fields and Random Walk Clusters: New Horizons, MFO, Germany
 - Dec 2024: Youth Probability Forum, Beijing Normal University at Zhuhai
 - Dec 2023: Random Interacting Systems, Scaling Limits, and Universality, National University of Singapore
 - Jun 2023: Discrete Probability and Related Problems, Sichuan University
 - Feb 2023: Hong Kong Probability Seminar, HKUST
-- Apr 2022: Online Talk at THU-PKU-BNU Joint Probability Webinar
-- Jan 2022: Probability Seminar, Universität zu Köln
+- Apr 2022: THU-PKU-BNU Joint Probability Webinar (online)
+- Jan 2022: Probability Seminar (online), Universität zu Köln
 - Oct 2021: The First International Conference for Chinese Young Probability Scholars, Hunan
 
 
