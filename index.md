@@ -18,7 +18,7 @@
 1. Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
 1. Percolation of discrete GFF in dimension two I. Arm events in the random walk loop soup (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16230), 50 pages, 5 figures.
 1. Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). [arXiv](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
-1. Multiple points on the boundaries of Brownian loop-soup clusters (with X. Li and W. Qian). [arXiv](https://arxiv.org/abs/2205.11468), 55 pages, 12 figures.
+1. Multiple points on the boundaries of Brownian loop-soup clusters (with X. Li and W. Qian). *Accepted by Ann. Probab.*, [arXiv](https://arxiv.org/abs/2205.11468), 55 pages, 12 figures. 
 1. Sharp asymptotics for arm probabilities in critical planar percolation (with H. Du, X. Li and Z. Zhuang). *Comm. Math. Phys.*, **405**(182), 2024. [arXiv](https://arxiv.org/abs/2205.15901)
 1. On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian free field (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv](https://arxiv.org/abs/2011.04955)
 
