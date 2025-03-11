@@ -8,13 +8,13 @@
 ## Curriculum Vita
 
 - 2022 -  &emsp;&emsp;&ensp;&ensp; Postdoc at City University of Hong Kong
-- 2017 - 2022 &nbsp;&nbsp; PhD at Peking University under the supervision of [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm) and [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/)
+- 2017 - 2022 &nbsp;&nbsp; PhD at Peking University under the supervision of [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm)  
 - 2013 - 2017 &nbsp;&nbsp; B.S. at Sun Yat-sen University
 
 ## Works
 
 - Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1] (with G. Cai). [arXiv](https://arxiv.org/abs/2502.05890), 20 pages.
-- A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X Liu). [arXiv](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
+- A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X. Liu). [arXiv](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
 - Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
 - Percolation of discrete GFF in dimension two I. Arm events in the random walk loop soup (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16230), 50 pages, 5 figures.
 - Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). [arXiv](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
@@ -24,7 +24,7 @@
 
 ## In preparation
 
-- Arm exponents in CLE and the Brownian loop soup (with P. Nolin and W. Qian).
+- Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian).
 - On the non-existence of several random fractals of zero dimension derived from Brownian motion (with X. Li, R. Liu and W. Qian). 
 - Convergence of the frontier of planar random walk in natural parametrization (with X. Li, R. Liu, X. Liu and D. Shiraishi).
 
@@ -34,7 +34,6 @@
 
 
 ## Talks
-
 - Feb 2025: Percolation Today (online): Percolation of discrete GFF in dimension two
 - Dec 2024: Geometry of Random Fields and Random Walk Clusters: New Horizons, MFO, Germany
 - Dec 2024: Youth Probability Forum, Beijing Normal University at Zhuhai
