@@ -1,6 +1,6 @@
 # GAO Yifan &nbsp; 高一帆
 
-- <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:12%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/).
+- <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:14%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/).
 - My research interest is probability theory, with a focus on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, Schramm-Loewner evolution, and percolation.
 - Email: yifangao at cityu dot edu dot hk
 - My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
