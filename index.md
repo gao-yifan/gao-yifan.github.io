@@ -32,6 +32,7 @@
 
 
 ## Talks
+- May 2025: Third China-Japan-Korea Joint Probability Workshop, RIMS, Kyoto University
 - Feb 2025: Percolation Today (online): Percolation of discrete GFF in dimension two
 - Dec 2024: Geometry of Random Fields and Random Walk Clusters: New Horizons, MFO, Germany
 - Dec 2024: Youth Probability Forum, Beijing Normal University at Zhuhai
