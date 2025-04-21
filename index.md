@@ -1,7 +1,7 @@
 # GAO Yifan &nbsp; 高一帆
 
 - <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:12%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/).
-- My research interest is probability theory, with a focus on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, and percolation.
+- My research interest is probability theory, with a focus on 2D random conformally invariant objects: Gaussian free field, Brownian loop soup, Schramm-Loewner evolution, and percolation.
 - Email: yifangao at cityu dot edu dot hk
 - My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
 
@@ -13,6 +13,8 @@
 
 ## Works
 
+- Convergence in natural parametrization of random walk frontier (with X. Li, R. Liu, X. Liu and D. Shiraishi). [arXiv](https://arxiv.org/abs/2504.13743), 33 pages, 4 figures.
+- Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2504.06202), 36 pages, 12 figures.
 - Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1] (with G. Cai). [arXiv](https://arxiv.org/abs/2502.05890), 20 pages.
 - A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X. Liu). [arXiv](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
 - Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
@@ -24,9 +26,7 @@
 
 ## In preparation
 
-- Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian).
 - On the non-existence of several random fractals of zero dimension derived from Brownian motion (with X. Li, R. Liu and W. Qian). 
-- Convergence of the frontier of planar random walk in natural parametrization (with X. Li, R. Liu, X. Liu and D. Shiraishi).
 
 ## Coauthors
 
