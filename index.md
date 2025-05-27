@@ -32,9 +32,12 @@
 
 
 ## Talks
+- Jul 2025: The 44th Conference on Stochastic Processes and their Applications, Wrocław, Poland
+- Jun 2025: The 9th National Conference on Probability Theory, Changsha
+- May 2025: First Math Workshop of CityUHK and the University of Edinburgh, CityU, Hong Kong
 - May 2025: Third China-Japan-Korea Joint Probability Workshop, RIMS, Kyoto University
 - Feb 2025: Percolation Today (online): Percolation of discrete GFF in dimension two
-- Dec 2024: Geometry of Random Fields and Random Walk Clusters: New Horizons, MFO, Germany
+- Dec 2024: Geometry of Random Fields and Random Walk Clusters: New Horizons, [report](Files/Ober_report.pdf), MFO, Germany
 - Dec 2024: Youth Probability Forum, Beijing Normal University at Zhuhai
 - Dec 2023: Random Interacting Systems, Scaling Limits, and Universality, National University of Singapore
 - Jun 2023: Discrete Probability and Related Problems, Sichuan University
