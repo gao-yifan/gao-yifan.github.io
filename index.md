@@ -13,17 +13,17 @@
 
 ## Works
 
-- Non-existence of several random fractals in the Brownian motion and the Brownian loop soup (with X. Li, R. Liu and W. Qian). [arXiv](https://arxiv.org/abs/2507.20324), 46 pages, 7 figures. 
-- Convergence in natural parametrization of random walk frontier (with X. Li, R. Liu, X. Liu and D. Shiraishi). [arXiv](https://arxiv.org/abs/2504.13743), 33 pages, 4 figures.
-- Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2504.06202), 36 pages, 12 figures.
-- Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1] (with G. Cai). [arXiv](https://arxiv.org/abs/2502.05890), 20 pages.
-- A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X. Liu). [arXiv](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
-- Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
-- Percolation of discrete GFF in dimension two I. Arm events in the random walk loop soup (with P. Nolin and W. Qian). [arXiv](https://arxiv.org/abs/2409.16230), 50 pages, 5 figures.
-- Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). [arXiv](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
-- Multiple points on the boundaries of Brownian loop-soup clusters (with X. Li and W. Qian). *Ann. Probab.* (to appear), [arXiv](https://arxiv.org/abs/2205.11468), 55 pages, 12 figures. 
-- Sharp asymptotics for arm probabilities in critical planar percolation (with H. Du, X. Li and Z. Zhuang). *Comm. Math. Phys.*, **405**(182), 2024. [arXiv](https://arxiv.org/abs/2205.15901)
-- On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian free field (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv](https://arxiv.org/abs/2011.04955)
+- Non-existence of several random fractals in the Brownian motion and the Brownian loop soup (with X. Li, R. Liu and W. Qian). [arXiv:2507.20324](https://arxiv.org/abs/2507.20324), 46 pages, 7 figures. 
+- Convergence in natural parametrization of random walk frontier (with X. Li, R. Liu, X. Liu and D. Shiraishi). [arXiv:2504.13743](https://arxiv.org/abs/2504.13743), 33 pages, 4 figures.
+- Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian). [arXiv:2504.06202](https://arxiv.org/abs/2504.06202), 36 pages, 12 figures.
+- Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1] (with G. Cai). [arXiv:2502.05890](https://arxiv.org/abs/2502.05890), 20 pages.
+- A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X. Liu). [arXiv:2411.14921](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
+- Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv:2409.16273](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
+- Percolation of discrete GFF in dimension two I. Arm events in the random walk loop soup (with P. Nolin and W. Qian). [arXiv:2409.16230](https://arxiv.org/abs/2409.16230), 50 pages, 5 figures.
+- Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). [arXiv:2310.09592](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
+- Multiple points on the boundaries of Brownian loop-soup clusters (with X. Li and W. Qian). *Ann. Probab.* (to appear), [arXiv:2205.11468](https://arxiv.org/abs/2205.11468), 55 pages, 12 figures. 
+- [Sharp asymptotics for arm probabilities in critical planar percolation](https://link.springer.com/article/10.1007/s00220-024-05028-0) (with H. Du, X. Li and Z. Zhuang). *Comm. Math. Phys.*, **405**(182), 2024. [arXiv:2205.15901](https://arxiv.org/abs/2205.15901)
+- [On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian free field](https://alea.impa.br/articles/v19/19-28.pdf) (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv:2011.04955](https://arxiv.org/abs/2011.04955)
 
 
 ## Coauthors
