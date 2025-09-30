@@ -12,9 +12,9 @@
 - 2013 - 2017 &nbsp;&nbsp; B.S. at Sun Yat-sen University
 
 ## Works
-
+- Arm events in critical planar loop soups (with Y. Bi, P. Nolin and W. Qian). [arXiv:2509.25024](https://arxiv.org/abs/2509.25024), 20 pages, 3 figures.
 - Non-existence of several random fractals in the Brownian motion and the Brownian loop soup (with X. Li, R. Liu and W. Qian). [arXiv:2507.20324](https://arxiv.org/abs/2507.20324), 46 pages, 7 figures. 
-- Convergence in natural parametrization of random walk frontier (with X. Li, R. Liu, X. Liu and D. Shiraishi). [arXiv:2504.13743](https://arxiv.org/abs/2504.13743), 33 pages, 4 figures.
+- Convergence in natural parametrization of random walk frontier (with X. Li, R. Liu, X. Liu and D. Shiraishi). *Sci. China Math.* (to appear), [arXiv:2504.13743](https://arxiv.org/abs/2504.13743), 33 pages, 4 figures. 
 - Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian). [arXiv:2504.06202](https://arxiv.org/abs/2504.06202), 36 pages, 12 figures.
 - Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1] (with G. Cai). [arXiv:2502.05890](https://arxiv.org/abs/2502.05890), 20 pages.
 - A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X. Liu). [arXiv:2411.14921](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
@@ -28,7 +28,7 @@
 
 ## Coauthors
 
-[Gefei Cai](https://gefei-cai.github.io/), [Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), Yifan Li, Runsheng Liu, Xiangyi Liu, [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://zijie123123.github.io/).
+Yijie Bi, [Gefei Cai](https://gefei-cai.github.io/), [Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), Yifan Li, Runsheng Liu, Xiangyi Liu, [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://zijie123123.github.io/).
 
 
 ## Talks
@@ -50,5 +50,5 @@
 ## Links
 - My [CV](Files/CV.pdf)
 - Past [student seminars](Files/seminars.html)
-- A joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/)
+- A joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/) 
 
