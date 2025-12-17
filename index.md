@@ -1,13 +1,13 @@
 # GAO Yifan &nbsp; 高一帆
 
-- <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:14%;margin:100px 300px;"/>I am currently a Postdoc at [Department of Mathematics, City University of Hong Kong](https://www.cityu.edu.hk/ma/), working with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/).
-- My research interest is probability theory, with a focus on statistical physics and random geometry: percolation, Gaussian free field, Brownian loop soup, and Schramm-Loewner evolution.
-- Email: yifangao at cityu dot edu dot hk
+- <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:14%;margin:100px 300px;"/>I am an Assistant Professor at the [Institute for Theoretical Sciences, Westlake University](https://its.westlake.edu.cn/index.htm). 
+- My research lies at the intersection of probability theory and mathematical physics, with a focus on statistical physics and random geometry, including Gaussian free field, Brownian loop soup, percolation, and Schramm-Loewner evolution.
+- Email: gaoyifan75 at westlake dot edu dot cn
 - My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
 
 ## Curriculum Vita
-
-- 2022 -  &emsp;&emsp;&ensp;&ensp; Postdoc at City University of Hong Kong
+- 2025 -      &emsp;&emsp;&ensp;&ensp; Assistant Professor, Institute for Theoretical Sciences, Westlake University
+- 2022 - 2025 &emsp;&emsp;&ensp;&ensp; Postdoc at City University of Hong Kong with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/)
 - 2017 - 2022 &nbsp;&nbsp; PhD at Peking University under the supervision of [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm)  
 - 2013 - 2017 &nbsp;&nbsp; B.S. at Sun Yat-sen University
 
@@ -50,5 +50,4 @@ Yijie Bi, [Gefei Cai](https://gefei-cai.github.io/), [Hang Du](https://hangdu200
 ## Links
 - My [CV](Files/CV.pdf)
 - Past [student seminars](Files/seminars.html)
-- A joint [Hong Kong Probability Seminar](https://sites.google.com/site/hkprobability/) 
 
