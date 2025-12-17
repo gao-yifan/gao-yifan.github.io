@@ -4,7 +4,7 @@
 - My research lies at the intersection of probability theory and mathematical physics, with a focus on statistical physics and random geometry, including Gaussian free field, Brownian loop soup, percolation, and Schramm-Loewner evolution.
 - Email: gaoyifan75 at westlake dot edu dot cn
 - Address: No. 600 Dunyu Road, Xihu district, Hangzhou, Zhejiang Province, China, 310030 (浙江省杭州市西湖区墩余路600号, 310030) 
-- Office: 303, E14 Research Center (E14科研中心3030)
+- Office: 303, E14 Research Center (E14科研中心303)
 
 ## Curriculum Vita
 - 2025 -      &emsp;&emsp;&ensp;&ensp; Assistant Professor, Westlake University
