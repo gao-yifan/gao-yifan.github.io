@@ -9,7 +9,7 @@
 ## Curriculum Vita
 - 2025 -      &emsp;&emsp;&ensp;&ensp; Assistant Professor, Westlake University
 - 2022 - 2025 &nbsp;&nbsp; Postdoc at City University of Hong Kong, with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/)
-- 2017 - 2022 &nbsp;&nbsp; PhD at Peking University, under the supervision of [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm)  
+- 2017 - 2022 &nbsp;&nbsp; Ph.D. at Peking University, under the supervision of [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm)  
 - 2013 - 2017 &nbsp;&nbsp; B.S. at Sun Yat-sen University
 
 ## Works
