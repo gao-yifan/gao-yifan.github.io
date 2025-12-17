@@ -3,11 +3,12 @@
 - <img src="Files/jiufen.jpg" alt="selfie" style="float:right;zoom:14%;margin:100px 300px;"/>I am an Assistant Professor at the [Institute for Theoretical Sciences, Westlake University](https://its.westlake.edu.cn/index.htm). 
 - My research lies at the intersection of probability theory and mathematical physics, with a focus on statistical physics and random geometry, including Gaussian free field, Brownian loop soup, percolation, and Schramm-Loewner evolution.
 - Email: gaoyifan75 at westlake dot edu dot cn
-- My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
+- Address: No. 600 Dunyu Road, Xihu district, Hangzhou, Zhejiang Province, China, 310030 (浙江省杭州市西湖区墩余路600号, 310030) 
+- Office: 303, E14 Research Center (E14科研中心3030)
 
 ## Curriculum Vita
 - 2025 -      &emsp;&emsp;&ensp;&ensp; Assistant Professor, Institute for Theoretical Sciences, Westlake University
-- 2022 - 2025 &emsp;&emsp;&ensp;&ensp; Postdoc at City University of Hong Kong with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/)
+- 2022 - 2025 &emsp;&emsp; Postdoc at City University of Hong Kong with [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm) and [Wei Qian](https://qian.perso.math.cnrs.fr/)
 - 2017 - 2022 &nbsp;&nbsp; PhD at Peking University under the supervision of [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm)  
 - 2013 - 2017 &nbsp;&nbsp; B.S. at Sun Yat-sen University
 
@@ -50,4 +51,5 @@ Yijie Bi, [Gefei Cai](https://gefei-cai.github.io/), [Hang Du](https://hangdu200
 ## Links
 - My [CV](Files/CV.pdf)
 - Past [student seminars](Files/seminars.html)
+- My [Google scholar](https://scholar.google.com/citations?user=ppG-FbgAAAAJ&hl=en)
 
