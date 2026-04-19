@@ -13,6 +13,7 @@
 - 2013 - 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. at Sun Yat-sen University
 
 ## Works
+- One-arm probabilities for the two-dimensional metric-graph and discrete Gaussian free field (with Y. Bi and X. li). [arXiv:2603.25400](https://arxiv.org/pdf/2603.25400), 24 pages.
 - Arm events in critical planar loop soups (with Y. Bi, P. Nolin and W. Qian). [arXiv:2509.25024](https://arxiv.org/abs/2509.25024), 20 pages, 3 figures.
 - Non-existence of several random fractals in the Brownian motion and the Brownian loop soup (with X. Li, R. Liu and W. Qian). [arXiv:2507.20324](https://arxiv.org/abs/2507.20324), 46 pages, 7 figures. 
 - [Convergence in natural parametrization of random walk frontier](https://link.springer.com/article/10.1007/s11425-025-2470-2) (with X. Li, R. Liu, X. Liu and D. Shiraishi). *Sci. China Math.*, 2026. [arXiv:2504.13743](https://arxiv.org/abs/2504.13743)
