@@ -13,6 +13,7 @@
 - 2013 - 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. at Sun Yat-sen University
 
 ## Works
+- Generalized intersection exponents and local cut points for three-dimensional Brownian loop soup (with R. Li and X. Li). [arXiv:2605.17494](https://arxiv.org/pdf/2605.17494), 24 pages.
 - One-arm probabilities for the two-dimensional metric-graph and discrete Gaussian free field (with Y. Bi and X. Li). [arXiv:2603.25400](https://arxiv.org/pdf/2603.25400), 24 pages.
 - Arm events in critical planar loop soups (with Y. Bi, P. Nolin and W. Qian). [arXiv:2509.25024](https://arxiv.org/abs/2509.25024), 20 pages, 3 figures.
 - Non-existence of several random fractals in the Brownian motion and the Brownian loop soup (with X. Li, R. Liu and W. Qian). *Ann. Probab.* (to appear), [arXiv:2507.20324](https://arxiv.org/abs/2507.20324), 46 pages, 7 figures. 
@@ -30,7 +31,7 @@
 
 ## Coauthors
 
-Yijie Bi, [Gefei Cai](https://gefei-cai.github.io/), [Hang Du](https://hangdu2000.github.io/MyHomePage/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), Yifan Li, Runsheng Liu, Xiangyi Liu, [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://zijie123123.github.io/).
+Yijie Bi, [Gefei Cai](https://gefei-cai.github.io/), [Hang Du](https://hangdu2000.github.io/MyHomePage/), Ruixuan Li, [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), Yifan Li, Runsheng Liu, Xiangyi Liu, [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), Petr Panov, [Wei Qian](https://qian.perso.math.cnrs.fr/), [Daisuke Shiraishi](https://kdb.iimc.kyoto-u.ac.jp/profile/en.f6a26c885ba820ce.html), [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm), [Zijie Zhuang](https://zijie123123.github.io/).
 
 
 ## Talks
