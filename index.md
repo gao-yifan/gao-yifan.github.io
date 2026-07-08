@@ -141,7 +141,7 @@ li::marker {
 }
 </style>
 
-# GAO Yifan &nbsp; 高一帆
+# Yifan Gao &nbsp; 高一帆
 
 <div class="profile">
   <div class="profile-text">
