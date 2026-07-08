@@ -12,22 +12,23 @@
 - 2017 - 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. at Peking University, under the supervision of [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Fuxi Zhang](https://www.math.pku.edu.cn/teachers/zhangfxi/eindex.htm)  
 - 2013 - 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. at Sun Yat-sen University
 
-## Works
+## Preprints
 - Generalized intersection exponents and local cut points for three-dimensional Brownian loop soup (with R. Li and X. Li). [arXiv:2605.17494](https://arxiv.org/pdf/2605.17494), 24 pages.
 - One-arm probabilities for the two-dimensional metric-graph and discrete Gaussian free field (with Y. Bi and X. Li). [arXiv:2603.25400](https://arxiv.org/pdf/2603.25400), 24 pages.
 - Arm events in critical planar loop soups (with Y. Bi, P. Nolin and W. Qian). [arXiv:2509.25024](https://arxiv.org/abs/2509.25024), 20 pages, 3 figures.
 - Non-existence of several random fractals in the Brownian motion and the Brownian loop soup (with X. Li, R. Liu and W. Qian). *Ann. Probab.* (to appear), [arXiv:2507.20324](https://arxiv.org/abs/2507.20324), 46 pages, 7 figures. 
-- [Convergence in natural parametrization of random walk frontier](https://link.springer.com/article/10.1007/s11425-025-2470-2) (with X. Li, R. Liu, X. Liu and D. Shiraishi). *Sci. China Math.*, 2026. [arXiv:2504.13743](https://arxiv.org/abs/2504.13743)
 - Up-to-constants estimates of four-arm events for simple conformal loop ensemble (with P. Nolin and W. Qian). [arXiv:2504.06202](https://arxiv.org/abs/2504.06202), 36 pages, 12 figures.
-- Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1] (with G. Cai). *Ann. Probab.* (to appear), [arXiv:2502.05890](https://arxiv.org/abs/2502.05890), 20 pages.
 - A boundary Harnack principle and its application to analyticity of 3D Brownian intersection exponents (with X. Li, Y. Li, R. Liu and X. Liu). [arXiv:2411.14921](https://arxiv.org/abs/2411.14921), 49 pages, 5 figures.
 - Percolation of discrete GFF in dimension two II. Connectivity properties of two-sided level sets (with P. Nolin and W. Qian). [arXiv:2409.16273](https://arxiv.org/abs/2409.16273), 71 pages, 8 figures.
 - Percolation of discrete GFF in dimension two I. Arm events in the random walk loop soup (with P. Nolin and W. Qian). [arXiv:2409.16230](https://arxiv.org/abs/2409.16230), 50 pages, 5 figures.
-- Scaling limit of the occupation measure of random walk cut points (with X. Li, P. Panov and D. Shiraishi). *Electron. J. Probab.* (to appear), [arXiv:2310.09592](https://arxiv.org/abs/2310.09592), 57 pages, 12 figures.
+
+## Publications
+- [Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1](https://projecteuclid.org/journals/annals-of-probability/volume-54/issue-4/Uniqueness-of-generalized-conformal-restriction-measures-and-MalliavinKontsevichSuhov-measures-for/10.1214/25-AOP1809.short) (with G. Cai). *Ann. Probab.*, **54**(4):2149-2172, 2026. [arXiv:2502.05890](https://arxiv.org/abs/2502.05890)
+- [Scaling limit of the occupation measure of random walk cut points](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-31/issue-none/Scaling-limit-of-the-occupation-measure-of-random-walk-cut/10.1214/26-EJP1543.full) (with X. Li, P. Panov and D. Shiraishi). *Electron. J. Probab.*, **31**:1-63, 2026. [arXiv:2310.09592](https://arxiv.org/abs/2310.09592)
+- [Convergence in natural parametrization of random walk frontier](https://link.springer.com/article/10.1007/s11425-025-2470-2) (with X. Li, R. Liu, X. Liu and D. Shiraishi). *Sci. China Math.*, 2026. [arXiv:2504.13743](https://arxiv.org/abs/2504.13743)
 - [Multiple points on the boundaries of Brownian loop-soup clusters](https://projecteuclid.org/journals/annals-of-probability/volume-54/issue-1/Multiple-points-on-the-boundaries-of-Brownian-loop-soup-clusters/10.1214/25-AOP1765.short) (with X. Li and W. Qian). *Ann. Probab.*, **54**(1):216-268, 2026. [arXiv:2205.11468](https://arxiv.org/abs/2205.11468)
 - [Sharp asymptotics for arm probabilities in critical planar percolation](https://link.springer.com/article/10.1007/s00220-024-05028-0) (with H. Du, X. Li and Z. Zhuang). *Comm. Math. Phys.*, **405**(182), 2024. [arXiv:2205.15901](https://arxiv.org/abs/2205.15901)
 - [On the chemical distance exponent for the two-sided level set of the two-dimensional Gaussian free field](https://alea.impa.br/articles/v19/19-28.pdf) (with F. Zhang). *ALEA Lat. Am. J. Probab. Math. Stat.*, **19**(1):729-753, 2022. [arXiv:2011.04955](https://arxiv.org/abs/2011.04955)
-
 
 ## Coauthors
 
