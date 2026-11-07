@@ -155,6 +155,8 @@ li::marker {
 </div>
 
 ## Preprints
+- **Critical one-arm probabilities for metric-graph loop soups in dimensions d ≥ 3**<br><span class="pub-meta">Yifan Gao. [arXiv:2611.06298](https://arxiv.org/abs/2611.06298), 44 pages.</span>
+- **On loop-soup clusters in three dimensions and higher**<br><span class="pub-meta">Yifan Gao. [arXiv:2610.38510](https://arxiv.org/abs/2610.38510), 52 pages, 1 figure.</span>
 - **Generalized intersection exponents and local cut points for three-dimensional Brownian loop soup**<br><span class="pub-meta">Yifan Gao, Ruixuan Li, and Xinyi Li. [arXiv:2605.17494](https://arxiv.org/pdf/2605.17494), 24 pages.</span>
 - **One-arm probabilities for the two-dimensional metric-graph and discrete Gaussian free field**<br><span class="pub-meta">Yijie Bi, Yifan Gao, and Xinyi Li. [arXiv:2603.25400](https://arxiv.org/pdf/2603.25400), 24 pages.</span>
 - **Arm events in critical planar loop soups**<br><span class="pub-meta">Yijie Bi, Yifan Gao, Pierre Nolin, and Wei Qian. [arXiv:2509.25024](https://arxiv.org/abs/2509.25024), 20 pages, 3 figures.</span>
